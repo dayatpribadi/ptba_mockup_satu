@@ -473,7 +473,7 @@
                 const targetId = this.getAttribute('href').substring(1);
                 const targetElement = document.getElementById(targetId);
                 if (targetElement) {
-                    const offset = 360; // Sesuaikan dengan tinggi elemen tetap seperti header
+                    const offset = -100; // Sesuaikan dengan tinggi elemen tetap seperti header
                     const targetPosition = targetElement.offsetTop + offset;
                     const startPosition = window.scrollY;
                     const distance = targetPosition - startPosition;
