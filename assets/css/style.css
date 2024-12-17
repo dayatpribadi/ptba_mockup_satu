@@ -23453,7 +23453,7 @@ span.select2-selection.select2-selection--single:focus {
   position: fixed;
   left: 1%;
   /* Geser ke kiri 0% */
-  top: 60%;
+  top: 55%;
   /* Posisi tengah vertikal */
   transform: translateY(-50%);
   /* Menengahkan secara vertikal */
@@ -23533,7 +23533,7 @@ span.select2-selection.select2-selection--single:focus {
   transform: translateY(-50%);
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 5px;
   z-index: 2;
 }
 
