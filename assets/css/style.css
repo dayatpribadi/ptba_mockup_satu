@@ -22,7 +22,8 @@
   --th-border-color: #E9EDF5;
   --title-font: "Manrope", sans-serif;
   --body-font: "Inter", sans-serif;
-  --style-font: "Montez", cursive;
+  --style-font: "Space Grotesk", serif;
+  /* --style-font: "Montez", cursive; */
   --icon-font: "Font Awesome 6 Pro";
   --main-container: 1320px;
   --container-gutters: 24px;
